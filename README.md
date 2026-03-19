@@ -1,4 +1,4 @@
-# -158al-Oswaldo
+# 158al-Oswaldo
 Olá, meu nome é Oswaldo, sou estudante de RH, Informática e Desenvolvimento de Sistemas, mantenho o GitHub para a postagem de projetos pessoais e escolares.
 Estudo na Etec desde 2024, começando pelo o curso de Recursos Humanos, e depois indo para os cursos de tecnologia, onde eu considero como a minha paixão.
 Durante a minha jornada, aprendi diversas tecnologias como: Linux, C#, SQL e entre outras que você pode ver nas badges logo abaixo!

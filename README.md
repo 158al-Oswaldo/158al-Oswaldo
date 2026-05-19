@@ -21,6 +21,7 @@ Estudo na ETEC de Cubatão desde 2024, onde comecei pelo Técnico em **Recursos 
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows&logoColor=white">
 </p>
+
 ---
  
 ## 📌 Projetos em destaque
